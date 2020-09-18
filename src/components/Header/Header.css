@@ -1,0 +1,22 @@
+.Header img{
+    height: 50px; 
+}
+.Header{
+    
+    margin-left: 100px;
+    margin-right: 100px; 
+   
+}
+.Nav{
+    margin-left: 40%;
+}
+.Nav li{
+   
+    display: inline;
+    margin-left: 50px;
+}
+.Nav a{
+    
+    text-decoration: none; 
+    font-weight: bold;
+}

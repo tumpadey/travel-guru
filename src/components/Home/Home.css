@@ -1,0 +1,16 @@
+.background-image{
+    background-image: url(../../Image/Rectangle\ 1.png);
+    padding: 50px 0 50px 0;
+    height: 100vh;
+    background-size: 100%
+
+
+}
+.BookingPlace{
+    padding:80px;
+    margin-left: 200px;
+    margin-right: 100px; 
+    
+}
+
+
